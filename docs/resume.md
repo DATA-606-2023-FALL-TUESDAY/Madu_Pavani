@@ -1,8 +1,11 @@
-<h1 align="center">Pavani Madu</h1>![Profile Picture](https://github.com/Madu-Pavani/UMBC-DATA606-FALL2023-TUESDAY/blob/main/Madu%20Pavani%20Photograph.jpg?raw=true)
+<h1 align="center">Pavani Madu</h1>
+<img src="https://github.com/Madu-Pavani/UMBC-DATA606-FALL2023-TUESDAY/blob/main/Madu%20Pavani.jpg" alt="Profile" width="200" height="200">
 
 
 
-[LinkedIn Profile](https://www.linkedin.com/in/pavani-madu9/) | [GitHub Profile](https://github.com/Madu-Pavani) | [Email](madupavani19@gmail.com) | [Trailblazer](https://trailblazer.me/id/pavanimadu9)
+
+
+[LinkedIn](https://www.linkedin.com/in/pavani-madu9/) | [GitHub](https://github.com/Madu-Pavani) | [Email](madupavani19@gmail.com) | [Trailblazer](https://trailblazer.me/id/pavanimadu9)
 
 ## Education
 ### University of Maryland, Baltimore County , December 2023
