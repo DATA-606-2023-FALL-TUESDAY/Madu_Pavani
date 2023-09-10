@@ -51,17 +51,17 @@ Describe the datasets you are using to answer your research questions.
 
 What features are important, what column means what
 
-1-age (Age of the patient in years)
-2-sex (Male/Female) (1/0)
-3-cp chest pain type ([typical angina, atypical angina, non-anginal, asymptomatic])(0~3)
-4-trestbps resting blood pressure (resting blood pressure (in mm Hg on admission to the hospital))
-5-chol (serum cholesterol in mg/dl)
-6-fbs (if fasting blood sugar > 120 mg/dl) (1/0)
-7-restecg (resting electrocardiographic results)-- Values: [normal, stt abnormality, lv hypertrophy] (0~2)
-8-thalach: maximum heart rate achieved
-9-exang: exercise-induced angina (True/ False) (1/0)
-10-oldpeak: ST depression induced by exercise relative to rest
-11-slope: the slope of the peak exercise ST segment (downsloping/flat/upsloping)
-12-ca: number of major vessels (0-3) colored by fluoroscopy
-13-thal: [normal; fixed defect; reversible defect] (1~3)
-14-target: yes or no (1/0)
+1. age (Age of the patient in years)
+2. sex (Male/Female) (1/0)
+3. cp chest pain type ([typical angina, atypical angina, non-anginal, asymptomatic])
+4. trestbps resting blood pressure (resting blood pressure (in mm Hg on admission to the hospital))
+5. chol (serum cholesterol in mg/dl)
+6. fbs (if fasting blood sugar > 120 mg/dl) (1/0)
+7. restecg (resting electrocardiographic results)-- Values: [normal, stt abnormality, lv hypertrophy]
+8. thalach: maximum heart rate achieved
+9. exang: exercise-induced angina (True/ False) (1/0)
+10. oldpeak: ST depression induced by exercise relative to rest
+11. slope: the slope of the peak exercise ST segment (downsloping/flat/upsloping)
+12. ca: number of major vessels (0-3) colored by fluoroscopy
+13. thal: [normal; fixed defect; reversible defect]
+14. target: yes or no (1/0)
