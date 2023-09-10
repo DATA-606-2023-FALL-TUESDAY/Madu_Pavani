@@ -1,12 +1,14 @@
- ## 1. Heartattack Predictions and Data Analysis
+ # Capstone Proposal
+ 
+## 1. Proposal Title: Heartattack Predictions and Data Analysis
 
-- Heartattack Predictions and Data Analysis
+- **Author Name** - Pavani Madu
+
 - Prepared for UMBC Data Science Master Degree Capstone by Dr Chaojie (Jay) Wang
-- Pavani Madu 
 - [GitHub](https://github.com/Madu_Pavani)
 - [LinkedIn](https://www.linkedin.com/in/pavani-madu9/)
-- Link to your PowerPoint presentation file - In Progress
-- Link to your YouTube video - In Progress
+- **Link to your PowerPoint presentation file** - In Progress
+- **Link to your YouTube video** - In Progress
 
     
 ## 2. Background
