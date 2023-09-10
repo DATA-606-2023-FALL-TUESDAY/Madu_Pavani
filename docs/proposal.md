@@ -28,7 +28,7 @@ Current research in this area aims to:
 
 **Data Privacy and Ethics:** In today's context, the responsible use of patient data and adherence to privacy regulations (e.g., GDPR, HIPAA) are of paramount importance in cardiovascular disease research. Researchers and healthcare institutions must ensure that patient data is handled securely and ethically.
 
-- Research questions
+**Research questions**
 1. Can we develop accurate predictive models for heart disease risk using machine learning techniques like logistic regression, decision trees, or neural networks?
 2. What are the key features or risk factors that significantly contribute to predicting heart disease outcomes?
 3. Which features (e.g., age, gender, cholesterol levels, blood pressure, ECG results) have the most significant impact on heart disease prediction, and can we prioritize them?
@@ -46,8 +46,6 @@ Current research in this area aims to:
 - Data sources: https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset
 - Data size: 38 KB
 - Data shape: # of rows - 1026 and # columns - 14
-- **What does each row represent?(a patient, a school, a crime, etc.)** - Inspection
-- Data dictionary
 
 **What features are important, what column means what**
 
