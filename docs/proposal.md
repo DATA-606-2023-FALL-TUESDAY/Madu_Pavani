@@ -41,7 +41,7 @@ Current research in this area aims to:
 
 ## 3. Data 
 
-Describe the datasets you are using to answer your research questions.
+**Describe the datasets you are using to answer your research questions.**
 
 - Data sources: https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset
 - Data size: 38 KB
@@ -49,7 +49,7 @@ Describe the datasets you are using to answer your research questions.
 - **What does each row represent?(a patient, a school, a crime, etc.)** - Inspection
 - Data dictionary
 
-What features are important, what column means what
+**What features are important, what column means what**
 
 1. age (Age of the patient in years)
 2. sex (Male/Female) (1/0)
