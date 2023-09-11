@@ -2,7 +2,7 @@
  
 ## 1. Title and Author
 
-- Heartattack Predictions and Data Analysis
+- **Heartattack Predictions and Data Analysis**
 - Prepared for UMBC Data Science Master Degree Capstone by Dr Chaojie (Jay) Wang
 - Pavani Madu
 - [GitHub](https://github.com/Madu_Pavani)
