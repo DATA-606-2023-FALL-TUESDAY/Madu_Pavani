@@ -1,10 +1,10 @@
  # Capstone Proposal
  
-## 1. Proposal Title: Heartattack Predictions and Data Analysis
+## 1. Title and Author
 
-- **Author Name** - Pavani Madu
-
+- Heartattack Predictions and Data Analysis
 - Prepared for UMBC Data Science Master Degree Capstone by Dr Chaojie (Jay) Wang
+- Pavani Madu
 - [GitHub](https://github.com/Madu_Pavani)
 - [LinkedIn](https://www.linkedin.com/in/pavani-madu9/)
 - **Link to your PowerPoint presentation file** - In Progress
@@ -65,3 +65,5 @@ Current research in this area aims to:
 12. ca: number of major vessels (0-3) colored by fluoroscopy
 13. thal: [normal; fixed defect; reversible defect]
 14. target: yes or no (1/0)
+- The variable target which is yes/no would be the target/label in the ML models- target which indicates whether a patient will have chances of heartattack or not
+- Age, Sex, cp(chest pain type), trestbps, chol may be some variables/predictors in the ML models. More research is required on the features selction going forward
