@@ -26,20 +26,15 @@ Current research in this area aims to:
 
 **Prevention and Intervention:** The emphasis on early prognosis extends to personalized prevention and intervention strategies. Healthcare providers are increasingly using risk prediction models to tailor interventions and lifestyle recommendations for high-risk patients. This proactive approach can include diet and exercise plans, medication management, and regular monitoring.
 
-**Public Health Initiatives:** In addition to individual patient care, public health organizations and policymakers are working on initiatives to promote heart-healthy behaviors at the population level. These efforts aim to reduce the overall burden of cardiovascular diseases through initiatives like public awareness campaigns, promoting healthier lifestyles, and improving access to healthcare services.
-
-**Data Privacy and Ethics:** In today's context, the responsible use of patient data and adherence to privacy regulations (e.g., GDPR, HIPAA) are of paramount importance in cardiovascular disease research. Researchers and healthcare institutions must ensure that patient data is handled securely and ethically.
 
 **Research questions**
-1. Can we develop accurate predictive models for heart disease risk using machine learning techniques like logistic regression, decision trees, or neural networks?
-2. What are the key features or risk factors that significantly contribute to predicting heart disease outcomes?
-3. Which features (e.g., age, gender, cholesterol levels, blood pressure, ECG results) have the most significant impact on heart disease prediction, and can we prioritize them?
-4. Can feature selection techniques help improve the efficiency and interpretability of predictive models?
-5. Are there gender-based differences in heart disease risk and outcomes, and how can these be addressed?
-6. How does age impact the incidence and prognosis of heart disease, and are there age-specific risk factors?
-7. What lifestyle modifications (e.g., diet, exercise, smoking cessation) are most effective in reducing heart disease risk?
-8. What are the survival rates, readmission rates, and quality of life outcomes for patients with heart disease?
-9. How do comorbidities (e.g., diabetes, hypertension) affect heart disease outcomes?
+1. What are the key features or risk factors that significantly contribute to predicting heart disease outcomes?
+2. Which features (e.g., age, gender, cholesterol levels, blood pressure, ECG results) have the most significant impact on heart disease prediction, and can we prioritize them?
+3. Are there gender-based differences in heart disease risk and outcomes, and how can these be addressed?
+4. How does age impact the incidence and prognosis of heart disease, and are there age-specific risk factors?
+5. What lifestyle modifications (e.g., diet, exercise, smoking cessation) are most effective in reducing heart disease risk?
+6. What are the survival rates, readmission rates, and quality of life outcomes for patients with heart disease?
+7. How do comorbidities (e.g., diabetes, hypertension) affect heart disease outcomes?
 
 ## 3. Data 
 
@@ -63,7 +58,7 @@ Current research in this area aims to:
 10. oldpeak: ST depression induced by exercise relative to rest
 11. slope: the slope of the peak exercise ST segment (downsloping/flat/upsloping)
 12. ca: number of major vessels (0-3) colored by fluoroscopy
-13. thal: [normal; fixed defect; reversible defect]
-14. target: yes or no (1/0)
-- The variable target which is yes/no would be the target/label in the ML models- target which indicates whether a patient will have chances of heartattack or not
+13. thal: 0 = normal; 1 = fixed defect; 2 = reversable defect
+14. disease: yes or no (1/0)
+- The "disease" field refers to the presence of heart disease in the patient. It is integer valued 0 = no disease and 1 = disease.
 - Age, Sex, cp(chest pain type), trestbps, chol may be some variables/predictors in the ML models. More research is required on the features selction going forward
