@@ -32,9 +32,7 @@ Current research in this area aims to:
 2. Which features (e.g., age, gender, cholesterol levels, blood pressure, ECG results) have the most significant impact on heart disease prediction, and can we prioritize them?
 3. Are there gender-based differences in heart disease risk and outcomes, and how can these be addressed?
 4. How does age impact the incidence and prognosis of heart disease, and are there age-specific risk factors?
-5. What lifestyle modifications (e.g., diet, exercise, smoking cessation) are most effective in reducing heart disease risk?
-6. What are the survival rates, readmission rates, and quality of life outcomes for patients with heart disease?
-7. How do comorbidities (e.g., diabetes, hypertension) affect heart disease outcomes?
+
 
 ## 3. Data 
 
