@@ -18,14 +18,6 @@ Heart attack prediction datasets are valuable resources for researchers, data sc
 
 As of today, cardiovascular diseases remain a significant global health concern, with a substantial impact on public health and healthcare systems worldwide. The World Health Organization (WHO) has estimated that approximately 17.9 million deaths occur each year due to cardiovascular diseases, including heart diseases and stroke. This represents a concerning increase from the previously mentioned estimate of 12 million deaths per year, highlighting the ongoing challenge posed by these conditions. This project aims to predict the heart disease in patient based on various factors like age, gender,cholesterol levels, blood pressure etc.,
 
-Current research in this area aims to:
-
-**Risk Factor Identification:** Scientists are continuously studying and refining the identification of risk factors for cardiovascular diseases. These factors include age, gender, family history, high blood pressure, elevated cholesterol levels, smoking, diabetes, obesity, and physical inactivity. Emerging research may also explore additional genetic, environmental, and lifestyle factors that contribute to cardiovascular risk.
-
-**Predictive Modeling:** Advanced machine learning models, including logistic regression, are being employed to develop predictive models that can assess an individual's risk of developing cardiovascular diseases. These models consider a wide range of patient-specific variables and can provide personalized risk assessments.
-
-**Prevention and Intervention:** The emphasis on early prognosis extends to personalized prevention and intervention strategies. Healthcare providers are increasingly using risk prediction models to tailor interventions and lifestyle recommendations for high-risk patients. This proactive approach can include diet and exercise plans, medication management, and regular monitoring.
-
 
 **Research questions**
 1. What are the key features or risk factors that significantly contribute to predicting heart disease outcomes?
