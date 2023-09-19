@@ -16,7 +16,7 @@
 
 Heart attack prediction datasets are valuable resources for researchers, data scientists, and healthcare professionals working on predictive modeling and risk assessment in cardiovascular medicine. These datasets typically contain a variety of patient-related features, medical test results, and outcomes (such as whether a patient had a heart attack or not). The goal is to develop predictive models that can identify individuals at high risk of experiencing a heart attack. These models can potentially aid in early intervention and personalized healthcare.
 
-As of today, cardiovascular diseases remain a significant global health concern, with a substantial impact on public health and healthcare systems worldwide. The World Health Organization (WHO) has estimated that approximately 17.9 million deaths occur each year due to cardiovascular diseases, including heart diseases and stroke. This represents a concerning increase from the previously mentioned estimate of 12 million deaths per year, highlighting the ongoing challenge posed by these conditions.
+As of today, cardiovascular diseases remain a significant global health concern, with a substantial impact on public health and healthcare systems worldwide. The World Health Organization (WHO) has estimated that approximately 17.9 million deaths occur each year due to cardiovascular diseases, including heart diseases and stroke. This represents a concerning increase from the previously mentioned estimate of 12 million deaths per year, highlighting the ongoing challenge posed by these conditions. This project aims to predict the heart disease in patient based on various factors like age, gender,cholesterol levels, blood pressure etc.,
 
 Current research in this area aims to:
 
