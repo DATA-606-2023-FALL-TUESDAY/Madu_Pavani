@@ -60,5 +60,5 @@ Current research in this area aims to:
 12. ca: number of major vessels (0-3) colored by fluoroscopy
 13. thal: 0 = normal; 1 = fixed defect; 2 = reversable defect
 14. disease: yes or no (1/0)
-- The "disease" field refers to the presence of heart disease in the patient. It is integer valued 0 = no disease and 1 = disease.
+- The "disease" field refers to the presence of heart attack in the patient. It is integer valued 0 = no disease and 1 = disease.
 - Age, Sex, cp(chest pain type), trestbps, chol may be some variables/predictors in the ML models. More research is required on the features selction going forward
