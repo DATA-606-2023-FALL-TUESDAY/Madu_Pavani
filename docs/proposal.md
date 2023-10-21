@@ -79,6 +79,24 @@ Shows information about outliers in the dataset.
 Allows users to see how the target variable varies with categorical columns.
 
 
+## Distribution of Patient Gender
+
+<img width="600" alt="image" src="https://github.com/Madu-Pavani/UMBC-DATA606-FALL2023-TUESDAY/blob/main/Img1.PNG">
+There is a clear difference in the gender distribution between heart disease cases and non-cases. Males are more likely to have heart disease than females. This suggests that gender may be a significant risk factor for heart disease.
+
+## Distribution of Heart Disease Presence
+<img width="600" alt="image" src="https://github.com/Madu-Pavani/UMBC-DATA606-FALL2023-TUESDAY/blob/main/Img%202.PNG">
+From above plot, there are 526 patients with heart disease cases and 499 patients with no heart disease
+
+## Scatter Plot
+<img width="600" alt="image" src="https://github.com/Madu-Pavani/UMBC-DATA606-FALL2023-TUESDAY/blob/main/Img%203.PNG">
+The scatter plot suggests that age and maximum heart rate may have an association with heart disease. It appears that as individuals age, those with heart disease tend to have lower maximum heart rates compared to those without heart disease.
+
+## Box Plot
+<img width="600" alt="image" src="https://github.com/Madu-Pavani/UMBC-DATA606-FALL2023-TUESDAY/blob/main/Img%204.PNG">
+Age is an important factor in heart disease. As age increases, the likelihood of heart disease also increases. There is a clear age difference between heart disease cases and non-cases. Heart disease is more prevalent in older individuals.
+
+
 ## 5. Model Training 
 
 - What models you will be using for predictive analytics?
@@ -106,40 +124,12 @@ Allows users to see how the target variable varies with categorical columns.
 
 Develop a web app for people to interact with your trained models. Potential tools for web app development:
 
-Streamlit will be used to create an application for exploratory data analysis and to create an application that will allow users to interact with the models. 
+Streamlit/Flask will be used to create an application for exploratory data analysis and to create an application that will allow users to interact with the models. 
 
 The model interaction application will feature the following functionality:
-  - Users will have a set of option to select from (sex, weight, race, age, and product)
-  - Once user selects their options above, they will be given an output of the body parts most likely injured and diagnosis.
+  - Users will have a set of option to select from (sex, gender, age, and chest pain type)
+  - Once user selects their options above, they will be given an output of the heart disease presence or not.
     
-The exploratory data analysis application will feature the following functionality:
-  - Users will be able to upload a dataset and see it's dimensions
-  - View N/A Values
-  - Gather descriptive analytics (mean, median, etc.)
-  - Visualize a histogram for a target column
-  - Show the distribution of numerical columns
-  - Show count plots of categorical columns
-  - Visualize box plots for numerical columns
-  - View outliers in the dataset
-  - Visualize how a target variable varies with categorical columns 
-
-## Distribution of Patient Gender
-
-<img width="600" alt="image" src="https://github.com/Madu-Pavani/UMBC-DATA606-FALL2023-TUESDAY/blob/main/Img1.PNG">
-There is a clear difference in the gender distribution between heart disease cases and non-cases. Males are more likely to have heart disease than females. This suggests that gender may be a significant risk factor for heart disease.
-
-## Distribution of Heart Disease Presence
-<img width="600" alt="image" src="https://github.com/Madu-Pavani/UMBC-DATA606-FALL2023-TUESDAY/blob/main/Img%202.PNG">
-From above plot, there are 526 patients with heart disease cases and 499 patients with no heart disease
-
-## Scatter Plot
-<img width="600" alt="image" src="https://github.com/Madu-Pavani/UMBC-DATA606-FALL2023-TUESDAY/blob/main/Img%203.PNG">
-The scatter plot suggests that age and maximum heart rate may have an association with heart disease. It appears that as individuals age, those with heart disease tend to have lower maximum heart rates compared to those without heart disease.
-
-## Box Plot
-<img width="600" alt="image" src="https://github.com/Madu-Pavani/UMBC-DATA606-FALL2023-TUESDAY/blob/main/Img%204.PNG">
-Age is an important factor in heart disease. As age increases, the likelihood of heart disease also increases. There is a clear age difference between heart disease cases and non-cases. Heart disease is more prevalent in older individuals.
-
 
 ## 7. Conclusion
 
