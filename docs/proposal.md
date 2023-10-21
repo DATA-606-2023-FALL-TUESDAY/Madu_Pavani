@@ -129,15 +129,15 @@ The exploratory data analysis application will feature the following functionali
 There is a clear difference in the gender distribution between heart disease cases and non-cases. Males are more likely to have heart disease than females. This suggests that gender may be a significant risk factor for heart disease.
 
 ## Distribution of Heart Disease Presence
-<img width="600" alt="image" src="https://github.com/Madu-Pavani/UMBC-DATA606-FALL2023-TUESDAY/blob/main/Img2.PNG">
+<img width="600" alt="image" src="https://github.com/Madu-Pavani/UMBC-DATA606-FALL2023-TUESDAY/blob/main/Img%202.PNG">
 From above plot, there are 526 patients with heart disease cases and 499 patients with no heart disease
 
 ## Scatter Plot
-<img width="600" alt="image" src="https://github.com/Madu-Pavani/UMBC-DATA606-FALL2023-TUESDAY/blob/main/Img3.PNG">
+<img width="600" alt="image" src="https://github.com/Madu-Pavani/UMBC-DATA606-FALL2023-TUESDAY/blob/main/Img%203.PNG">
 The scatter plot suggests that age and maximum heart rate may have an association with heart disease. It appears that as individuals age, those with heart disease tend to have lower maximum heart rates compared to those without heart disease.
 
 ## Box Plot
-<img width="600" alt="image" src="https://github.com/Madu-Pavani/UMBC-DATA606-FALL2023-TUESDAY/blob/main/Img4.PNG">
+<img width="600" alt="image" src="https://github.com/Madu-Pavani/UMBC-DATA606-FALL2023-TUESDAY/blob/main/Img%204.PNG">
 Age is an important factor in heart disease. As age increases, the likelihood of heart disease also increases. There is a clear age difference between heart disease cases and non-cases. Heart disease is more prevalent in older individuals.
 
 
