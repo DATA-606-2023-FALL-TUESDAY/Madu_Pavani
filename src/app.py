@@ -85,11 +85,16 @@ prediction = lr.predict(scaler.transform(user_input))
 
 # Display prediction
 st.subheader('Prediction:')
-st.write('The model predicts:', prediction)
-
+if prediction[0] == 0:
+    st.write("No heart disease.")
+else:
+    st.write("Heart disease present.")
 
 if st.button('Re-run Model'):
     # Re-run the model with the same user input (optional)
     new_prediction = lr.predict(scaler.transform(user_input))
     st.subheader('New Prediction:')
-    st.write('The model predicts:', new_prediction)
+    if new_prediction[0] == 0:
+        st.write("No heart disease.")
+    else:
+        st.write("Heart disease present.")
