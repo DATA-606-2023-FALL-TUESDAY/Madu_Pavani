@@ -4,10 +4,10 @@
 
 - **Heartattack Predictions and Data Analysis**
 - Prepared for UMBC Data Science Master Degree Capstone by Dr Chaojie (Jay) Wang
-- Pavani Madu
+- Author Name - Pavani Madu
 - [GitHub](https://github.com/Madu_Pavani)
 - [LinkedIn](https://www.linkedin.com/in/pavani-madu9/)
-- [Capstone.ppt](https://github.com/DATA-606-2023-FALL-TUESDAY/Madu_Pavani/blob/main/docs/Heart%20Disease%20Prediction.pptx)
+- [Heartattack Predictions.ppt](https://github.com/DATA-606-2023-FALL-TUESDAY/Madu_Pavani/blob/main/docs/Heart%20Disease%20Prediction.pptx)
 - [Youtube](https://www.linkedin.com/in/pavani-madu9/)
 
     
@@ -116,6 +116,7 @@ How will you train the models?
 
 Python packages used for this project include:
 - scikit-learn2
+- Pandas
 
 The development environments used include:
 - Personal laptop
