@@ -80,8 +80,8 @@ Allows users to see how the target variable varies with categorical columns.
 
 # Preprocessing
 
-No potential missing values found in the dataset
-The data is pretty clean and no further pre-processing required
+- No potential missing values found in the dataset
+- The data is pretty clean and no further pre-processing required
 
 ## Distribution of Patient Gender
 
@@ -104,7 +104,7 @@ Age is an important factor in heart disease. As age increases, the likelihood of
 ## 5. Model Training 
 
 What models you will be using for predictive analytics?
-Models are trained and analyzed
+- Models are trained and analyzed
 - K- nearest neighbors
 - Random Forest Classifier
 - Logistic regression
@@ -112,21 +112,21 @@ Models are trained and analyzed
 The confusion matrix is drawn for analysis
 
 How will you train the models?
-The train vs test split of 80/20 will be used for the models.
+- The train vs test split of 80/20 will be used for the models.
 
 Python packages used for this project include:
-scikit-learn2
+- scikit-learn2
 
 The development environments used include:
-Personal laptop
-Jupyter Notebook
-Visual Studio Code
+- Personal laptop
+- Jupyter Notebook
+- Visual Studio Code
 
 How will you measure and compare the performance of the models?
-Accuracy
-Precision
-Recall
-f1-score
+- Accuracy
+- Precision
+- Recall
+- f1-score
 
 Model Improvement Methods:
 Hyperparameter Tuning - Part of the scikit-learn library is a hyperparameter tuning technique called RandomizedSearchCV. Being that the dataset is large, this was the optimal hyperparameter tuning technique, as it randomly selects combinations of parameters to try.
@@ -157,9 +157,9 @@ The likelihood of each class is calculated during prediction, and the output lab
 
 ## Random Search CV
 
-This is a method for hyperparameter tuning that performs a randomized search over a specified parameter grid. It randomly samples a set of hyperparameter combinations from predefined distributions. 
+- This is a method for hyperparameter tuning that performs a randomized search over a specified parameter grid. It randomly samples a set of hyperparameter combinations from predefined distributions. 
 
-In this case, cv is set to 5-fold cross-validation, meaning the dataset is split into 5 parts, and the model is trained and evaluated 5 times, each time using a different part as the test set.
+- In this case, cv is set to 5-fold cross-validation, meaning the dataset is split into 5 parts, and the model is trained and evaluated 5 times, each time using a different part as the test set.
 
 ## Grid Search CV
 
@@ -184,7 +184,9 @@ The model interaction application will feature the following functionality:
 The goal was to create a user-friendly application that will be both a practical tool and bridge the gap between complex models and end-users, such as healthcare professionals, researchers, or injured citzens. The highest performing model was Random Forest Classifier for a broader data range. But for the project a minimal data was used and Logistic Regression performs best, which was used as the machine learning prediction model. The application offers a range of functionalities, providing users with various options to input and obtain tailored results. These functionalities include:
 
 User Input Options - Users can input specific details related to patients, such as age, sex, gender and the type chest pain involved. This level of detail allows for a more personalized analysis.
+
 Predictive Analytics - Based on the input data, the application predicts the presence of heart disease utilizing the trained Logistic Regression model.
+
 Accessibility and Ease of Use - Designed with a focus on user experience, the application facilitates easy navigation and interpretation of results, making it accessible to a broad audience.
 
 ##  Model Results
@@ -192,10 +194,10 @@ Accessibility and Ease of Use - Designed with a focus on user experience, the ap
 
 ## 7. Conclusion
 
-1. The logistic regression model achieved AUC score of 94% indicating a good level on predictive performance
-2. Random forest algorithm achieved 100% accuracy which seems to be overfitting the model
-3. Different factors like age, gender, chest pain type, maximum heart rate achieved have a significant impact on the heart disease
-4. As the RFC model is overfitting in this case, I have chosen logistic regression to be the best model to predict heart disease presence in the patients.
+- The logistic regression model achieved AUC score of 94% indicating a good level on predictive performance
+- Random forest algorithm achieved 100% accuracy which seems to be overfitting the model
+- Different factors like age, gender, chest pain type, maximum heart rate achieved have a significant impact on the heart disease
+- As the RFC model is overfitting in this case, I have chosen logistic regression to be the best model to predict heart disease presence in the patients.
 
 
 ## 8. References 
