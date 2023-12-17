@@ -5,6 +5,7 @@
 - **Heartattack Predictions and Data Analysis**
 - Prepared for UMBC Data Science Master Degree Capstone by Dr Chaojie (Jay) Wang
 - Author Name - Pavani Madu
+- Semester - Fall 2023
 - [GitHub](https://github.com/Madu_Pavani)
 - [LinkedIn](https://www.linkedin.com/in/pavani-madu9/)
 - [Heartattack Predictions.ppt](https://github.com/DATA-606-2023-FALL-TUESDAY/Madu_Pavani/blob/main/docs/Heart%20Disease%20Prediction.pptx)
