@@ -8,7 +8,7 @@
 - [GitHub](https://github.com/Madu_Pavani)
 - [LinkedIn](https://www.linkedin.com/in/pavani-madu9/)
 - [Heartattack Predictions.ppt](https://github.com/DATA-606-2023-FALL-TUESDAY/Madu_Pavani/blob/main/docs/Heart%20Disease%20Prediction.pptx)
-- [Youtube](https://www.linkedin.com/in/pavani-madu9/)
+- [Youtube](https://youtu.be/LgeH4r3OSV4)
 
     
 ## 2. Background
